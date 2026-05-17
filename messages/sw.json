@@ -1,0 +1,27 @@
+{
+    "Hero": {
+        "badge": "AI ya Lugha za Kiafrika Inayoongozwa na Jamii",
+        "title": "Kulinda Lugha za Mashariki mwa Kongo kwa kutumia AI",
+        "description": "KivuLingua inajenga datasets wazi za sauti na lugha kwa lugha za Kibantu zisizopewa uwakilishi wa kutosha.",
+        "primaryButton": "Chunguza Lugha",
+        "secondaryButton": "Jiunge na Jamii",
+        "stats": {
+            "community": {
+                "value": "200+",
+                "description": "Wazungumzaji wa asili wa Kimaashi tayari wanashiriki katika uhifadhi wa lugha."
+            },
+            "languages": {
+                "value": "8",
+                "description": "Lugha za Kibantu kutoka Mashariki mwa Kongo zinazolengwa katika mradi huu."
+            },
+            "audio": {
+                "value": "70h+",
+                "description": "Saa nyingi za rekodi za sauti bora kwa ajili ya ASR na TTS."
+            },
+            "open": {
+                "value": "Open",
+                "description": "Datasets za wazi zinazomilikiwa na jamii kwa utafiti wa lugha za Kiafrika."
+            }
+        }
+    }
+}

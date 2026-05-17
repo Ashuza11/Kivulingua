@@ -1,0 +1,27 @@
+{
+    "Hero": {
+        "badge": "Community-Led African Language AI",
+        "title": "Preserving Eastern Congo Languages Through AI",
+        "description": "KivuLingua is building open speech and language datasets for underrepresented Bantu languages to enable inclusive AI, linguistic preservation, and community-driven research across Eastern Congo.",
+        "primaryButton": "Explore Languages",
+        "secondaryButton": "Join Community",
+        "stats": {
+            "community": {
+                "value": "200+",
+                "description": "Native Mashi speakers and contributors already involved in community validation and linguistic preservation."
+            },
+            "languages": {
+                "value": "8",
+                "description": "Underrepresented Bantu languages from Eastern Congo targeted for preservation and AI research."
+            },
+            "audio": {
+                "value": "70h+",
+                "description": "High-quality aligned speech recordings planned for ASR and TTS dataset construction."
+            },
+            "open": {
+                "value": "Open",
+                "description": "Community-owned datasets and benchmarks designed for open African language AI research."
+            }
+        }
+    }
+}

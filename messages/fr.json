@@ -1,0 +1,27 @@
+{
+    "Hero": {
+        "badge": "IA Linguistique Africaine Communautaire",
+        "title": "Préserver les langues de l’Est du Congo grâce à l’IA",
+        "description": "KivuLingua construit des jeux de données vocaux et linguistiques ouverts pour les langues bantoues sous-représentées afin de favoriser une IA inclusive et la préservation linguistique.",
+        "primaryButton": "Explorer les langues",
+        "secondaryButton": "Rejoindre la communauté",
+        "stats": {
+            "community": {
+                "value": "200+",
+                "description": "Locuteurs natifs du Mashi et contributeurs déjà impliqués dans la validation communautaire."
+            },
+            "languages": {
+                "value": "8",
+                "description": "Langues bantoues sous-représentées de l’Est du Congo ciblées pour la préservation."
+            },
+            "audio": {
+                "value": "70h+",
+                "description": "Enregistrements vocaux de haute qualité prévus pour les jeux de données ASR et TTS."
+            },
+            "open": {
+                "value": "Ouvert",
+                "description": "Jeux de données communautaires conçus pour une recherche ouverte sur les langues africaines."
+            }
+        }
+    }
+}
