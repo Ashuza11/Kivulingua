@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# KivuLingua
 
-First, run the development server:
+KivuLingua is a community-driven African language AI initiative focused on preserving and advancing underrepresented Bantu languages from Eastern Congo through open datasets, speech technology, and inclusive research.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The project aims to build high-quality ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) datasets for languages with little or no digital representation, starting with Mashi (Shi) and expanding to other regional languages including Kinande, Hunde, Fuliru, Kitembo, Havu, Nyanga, and Kibembe.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Vision
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Many African languages remain digitally invisible despite being spoken by millions of people. This limits access to modern AI technologies, education tools, digital services, and language preservation efforts.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+KivuLingua exists to help change that by:
 
-## Learn More
+- Preserving endangered and underrepresented Bantu languages
+- Building open and ethical speech datasets
+- Supporting African-led AI research
+- Enabling inclusive AI systems for local communities
+- Creating reusable language resources for education, research, and technology
 
-To learn more about Next.js, take a look at the following resources:
+## Core Objectives
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Curate high-quality speech and text datasets
+- Build aligned ASR and TTS resources
+- Fine-tune open-source language and speech models
+- Study linguistic similarities across Bantu languages
+- Document findings through open scientific research
+- Develop community-owned language infrastructure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Target Languages
 
-## Deploy on Vercel
+- Mashi (Shi)
+- Kinande (Nande)
+- Hunde
+- Fuliru
+- Kitembo (Tembo)
+- Havu
+- Nyanga
+- Kibembe (Babembe)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Starting With Mashi
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project begins with Mashi due to:
+
+- Existing native-speaker community support
+- Active linguistic contributors already working on the language
+- Strong regional knowledge and cultural grounding
+- Existing validation and translation capacity
+
+The lessons, datasets, and methodologies developed for Mashi will later be adapted and expanded to the other languages.
+
+## Technology Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- next-intl
+- Open-source AI and speech tooling
+
+## Principles
+
+KivuLingua is built around:
+
+- Community participation
+- Open access research
+- Ethical data collection
+- Cultural preservation
+- Linguistic inclusion
+- African-led innovation
+
+## Long-Term Goal
+
+To create one of the largest open and community-driven AI language ecosystems for Eastern Congo’s Bantu languages and help ensure these languages can fully participate in the future of artificial intelligence.
+
+---
+
+Built with community, culture, and language preservation at the center.
