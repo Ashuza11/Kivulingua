@@ -1,4 +1,10 @@
 {
+    "Navbar": {
+        "languages": "Langues",
+        "research": "Recherche",
+        "community": "Communauté",
+        "roadmap": "Feuille de route"
+    },
     "Hero": {
         "badge": "IA Linguistique Africaine Communautaire",
         "title": "Préserver les langues de l’Est du Congo grâce à l’IA",

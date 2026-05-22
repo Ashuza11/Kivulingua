@@ -1,4 +1,10 @@
 {
+    "Navbar": {
+        "languages": "Languages",
+        "research": "Research",
+        "community": "Community",
+        "roadmap": "Roadmap"
+    },
     "Hero": {
         "badge": "Community-Led African Language AI",
         "title": "Preserving Eastern Congo Languages Through AI",

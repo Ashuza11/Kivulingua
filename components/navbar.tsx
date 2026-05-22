@@ -26,11 +26,11 @@ export default function Navbar() {
 
                     <div>
                         <h1 className="text-xl font-bold tracking-tight text-[#1E4D3A]">
-                            KivuLingua
+                            KivuLingua AI
                         </h1>
 
                         <p className="text-xs text-black/50">
-                            African Language AI
+                            AI in our languages
                         </p>
                     </div>
                 </a>
@@ -65,7 +65,6 @@ export default function Navbar() {
                         {t("roadmap")}
                     </a>
                 </div>
-
                 <LanguageSwitcher />
             </div>
         </nav>

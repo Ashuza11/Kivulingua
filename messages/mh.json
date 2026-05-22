@@ -1,4 +1,10 @@
 {
+    "Navbar": {
+        "languages": "Endimi",
+        "research": "Ubushakashatsi",
+        "community": "Ecihanda",
+        "roadmap": "Enfunda"
+    },
     "Hero": {
         "badge": "AI y’Indimi z’Afrika iyubakishijwe n’Abandu",
         "title": "Kubika Indimi z’e Kivu hakoreshejwe AI",

@@ -1,4 +1,10 @@
 {
+    "Navbar": {
+        "languages": "Lugha",
+        "research": "Utafiti",
+        "community": "Jamii",
+        "roadmap": "Ramani ya mradi"
+    },
     "Hero": {
         "badge": "AI ya Lugha za Kiafrika Inayoongozwa na Jamii",
         "title": "Kulinda Lugha za Mashariki mwa Kongo kwa kutumia AI",
